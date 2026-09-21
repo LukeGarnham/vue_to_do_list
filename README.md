@@ -6,9 +6,9 @@ The course in question is: [Learn Vue 3: Step by Step](https://laracasts.com/ser
 
 ## Install instructions
 
-Once pulled, install npm and run: `code` npm install
+Once pulled, install npm and run: `npm install`
 
-You can then run this command to launch the project: `code` npm run start
+You can then run this command to launch the project: `npm run start`
 
 This will run the _start_ script in package.json. It should be hosted and accessible in a browser from your [localhost](http://localhost:3000).
 
